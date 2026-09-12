@@ -59,7 +59,7 @@ export default function Footer() {
               Contact
             </h3>
             <ul className="space-y-2.5 text-sm text-slate-400">
-              <li>Email: support@ideavault.dev</li>
+              <li>Email: contact.mirazahammed@gmail.com</li>
               <li>Location: Dhaka, Bangladesh</li>
               <li>Response: Within 24 hours</li>
             </ul>
@@ -104,7 +104,7 @@ export default function Footer() {
 
         <div className="mt-12 pt-8 border-t border-slate-800/60 flex flex-col sm:flex-row justify-between items-center gap-4">
           <p className="text-xs text-slate-500">
-            &copy; {currentYear} IdeaVault. All rights reserved. Developed by Parvez Patwary.
+            &copy; {currentYear} IdeaVault. All rights reserved. Developed by Miraz Ahammed.
           </p>
           <div className="flex space-x-6 text-xs text-slate-500">
             <span className="hover:text-slate-400 cursor-pointer">Privacy Policy</span>
