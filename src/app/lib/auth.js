@@ -10,6 +10,7 @@ export const auth = betterAuth({
     client,
   }),
   trustedOrigins: [
+    "https://ideavault-project.vercel.app",
     "https://ideavault-frontend-three.vercel.app",
     "https://ideavault-frontend-parvezpatwaryys-projects.vercel.app",
     "http://localhost:3000",
